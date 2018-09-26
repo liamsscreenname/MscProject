@@ -5,4 +5,4 @@ The aim of the project was to enable a story-driven Augmented Reality game to be
 
 The game was designed in Unity for mobile devices running Android OS. This repository contains the C# scripts only.
 
-The following video shows the app in action: ![video link] ("https://www.wevideo.com/view/1193995046")
+The following video shows the app in action:  "https://www.wevideo.com/view/1193995046"
